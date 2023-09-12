@@ -1,0 +1,14 @@
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\Lena\repo\matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.AssemblyReference.cache
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\Lena\repo\matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
